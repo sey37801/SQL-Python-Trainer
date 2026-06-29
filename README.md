@@ -17,10 +17,7 @@ Code entspannt und ordne ihn stets übersichtlich an, später kann man ihn immer
 
 
 
-
-
 SQL: Hier lernst du einfache Befehle aber kein vollständiges Erstellen einer Datenbank.
 SQL: Du brauchst Grundlagenwissen, deshalb gilt der Trainer noch als unvollständig, in der nächsten Version wird SQL erweitert. 
-
 
 Wichtig: progress.json brauchst du um alles zu speichern
